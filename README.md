@@ -59,7 +59,7 @@ I’m passionate about understanding how systems work, solving technical problem
 <br>
 
 <h2>📄 Blog Posts</h2>
-- SQL Injection
+- <a href="https://github.com/kieren-aquilina/Blogs/blob/10470fcb582187885f6f906476d2e94785896a25/SQL%20Injection.md">SQL Injection</a>
 
 <br>
 
