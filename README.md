@@ -7,29 +7,36 @@ I’m Kieren, an enthusiastic and motivated newcomer to the IT and cybersecurity
 I’m passionate about understanding how systems work, solving technical problems, and developing a strong foundation for a long-term career in the tech industry. This GitHub showcases the work I’m doing to sharpen my skills, explore new tools, and grow into a capable and reliable IT professional.
 
 <h3>🎯 What I’m Working Toward</h3>
-- Landing my next IT or cybersecurity role
-- Expanding my practical skills with Python & SQL & Java, networking, Linux, and security tools
-- Building a portfolio of real, hands-on projects
-- Developing strong troubleshooting and customer support abilities
+<ls>
+  <li>Landing my next IT or cybersecurity role</li>
+  <li>Expanding my practical skills with Python & SQL & Java, networking, Linux, and security tools</li>
+  <li>Building a portfolio of real, hands-on projects</li>
+  <li>Developing strong troubleshooting and customer support abilities</li>
+</ls>
 
 <h3>🛠️ Technologies & Tools</h3>
-- Languages: Python, SQL
-- Security Tools: Wireshark
-- Platforms: Linux & Windows
-- Other: Networking fundamentals, ticketing systems, documentation
+<ls>
+  <li>Languages: Python, SQL</li>
+  <li>Security Tools: Wireshark</li>
+  <li>Platforms: Linux & Windows</li>
+  <li>Other: Networking fundamentals, ticketing systems, documentation</li>
+</ls>
 
 <h3>📚 Current Learning</h3>
-- Looking for new projects to expand on my knowledge and remain confident with the use of Python
-- After completing the <b>Google Cybersecurity Certificate</b> I will next be studying the <b>CompTIA Secuirty+</b> certification
-- Continue to use various Linux distros to remain confident
-- I am currently designing my own home lab for various different types of learning, including: networking, cybersecurity tools, hypervisors, and basic troubleshooting. All of this will be documented here!
-- Writing my own blog on this GitHub, to document further learning and allow me to express my intrests in all things technology related
+<ls>
+  <li>Looking for new projects to expand on my knowledge and remain confident with the use of Python</li>
+  <li>After completing the <b>Google Cybersecurity Certificate</b> I will next be studying the <b>CompTIA Secuirty+</b> certification</li>
+  <li>Continue to use various Linux distros to remain confident</li>
+  <li>I am currently designing my own home lab for various different types of learning, including: networking, cybersecurity tools, hypervisors, and basic troubleshooting. All of this will be documented here!</li>
+  <li>Writing my own blog on this GitHub, to document further learning and allow me to express my intrests in all things technology related</li>
+</ls>
 
 <br><br>
 
 <h2>📖 Certifications</h2>
-
-- Google Cybersecurity Certificate || <b>Completed in August 2025</b>
+<ls>
+  <li>Google Cybersecurity Certificate || <b>Completed in August 2025</b></li>
+</ls>
 
 <br>
 
@@ -54,12 +61,16 @@ I’m passionate about understanding how systems work, solving technical problem
 <br>
 
 <h2>⏱️ WIP Projects</h2>
-- <b>Nothing yet!</b>
+<ls>
+  <li><b>Nothing yet!</b></li>
+</ls>
 
 <br>
 
 <h2>📄 Blog Posts</h2>
-- <a href="https://github.com/kieren-aquilina/Blogs/blob/10470fcb582187885f6f906476d2e94785896a25/SQL%20Injection.md">SQL Injection</a>
+<ls>
+  <li><a href="https://github.com/kieren-aquilina/Blogs/blob/10470fcb582187885f6f906476d2e94785896a25/SQL%20Injection.md">SQL Injection</a></li>
+</ls>
 
 <br>
 
