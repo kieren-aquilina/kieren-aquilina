@@ -22,7 +22,7 @@ I’m passionate about understanding how systems work, solving technical problem
 - Looking for new projects to expand on my knowledge and remain confident with the use of Python
 - After completing the <b>Google Cybersecurity Certificate</b> I will next be studying the <b>CompTIA Secuirty+</b> certification
 - Continue to use various Linux distros to remain confident
-- I am currently my own home lab for various different types of learning, including: networking, cybersecurity tools, hypervisors, and basic troubleshooting. All of this will be documented here!
+- I am currently designing my own home lab for various different types of learning, including: networking, cybersecurity tools, hypervisors, and basic troubleshooting. All of this will be documented here!
 - Writing my own blog on this GitHub, to document further learning and allow me to express my intrests in all things technology related
 
 <br><br>
